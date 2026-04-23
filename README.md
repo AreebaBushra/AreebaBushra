@@ -36,5 +36,5 @@ My work includes the intersection of **LLMs, agentic workflows, and real-world a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/areeba-bushra-b57200214)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/AreebaBushra)
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/areebabushra)
 
