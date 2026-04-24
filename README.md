@@ -22,16 +22,6 @@ My work includes the intersection of **LLMs, agentic workflows, and real-world a
 
 ---
 
-## 📜 Certifications
-
--  Microsoft Certified: Azure AI Fundamentals
--  Data Analyst — DataCamp
--  Python for Data Science & AI — IBM
--  Linear Algebra for ML — DeepLearning.AI
--  Understanding & Visualizing Data — University of Michigan
-
----
-
 ##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/areeba-bushra-b57200214)
